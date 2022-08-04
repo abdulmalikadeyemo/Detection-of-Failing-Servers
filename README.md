@@ -1,1 +1,1 @@
-# Detection-of-Failing-Servers
+# Detection of Failing Servers on a Network
