@@ -1,4 +1,5 @@
 # Detection of Failing Servers on a Network
+**Check the python notebook for the complete solution** [Click Here](https://github.com/abdulmalikadeyemo/Fault-Detection-in-Servers/blob/main/Anomaly_Detection.ipynb)
 
 In this project, I implemented an anomaly detection algorithm to detect anomalous behavior in server on a network. The dataset contained two features: throughput (mb/s) and latency (ms) of response of each server. I collected 307 examples of how the servers were behaving while they were operating, resulting in an unlabeled dataset.
 
